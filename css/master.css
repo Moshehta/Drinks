@@ -1,0 +1,7 @@
+.row {
+  margin: 20px 0 !important;
+  justify-content: space-around !important;
+}
+.card {
+  cursor: pointer !important;
+}
